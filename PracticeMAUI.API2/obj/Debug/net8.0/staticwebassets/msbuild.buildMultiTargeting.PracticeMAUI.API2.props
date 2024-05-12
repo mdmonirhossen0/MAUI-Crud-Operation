@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PracticeMAUI.API2.props" />
+</Project>
